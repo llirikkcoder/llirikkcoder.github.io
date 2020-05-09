@@ -1,0 +1,8 @@
+{
+    "films":[
+        {"id": 1, "img":"https://sun9-31.userapi.com/c854324/v854324315/778a9/Z1aSiS-2asg.jpg", "name":"Отверженные"},
+        {"id": 2, "img":"https://sun9-31.userapi.com/c854324/v854324315/778a9/Z1aSiS-2asg.jpg", "name":"Человек с планеты Земля"},
+        {"id": 3, "img":"https://sun9-31.userapi.com/c854324/v854324315/778a9/Z1aSiS-2asg.jpg", "name":"Горячие головы"},
+        {"id": 4, "img":"https://sun9-31.userapi.com/c854324/v854324315/778a9/Z1aSiS-2asg.jpg", "name":"Люди-Икс"}
+    ]
+}
